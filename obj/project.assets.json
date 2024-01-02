@@ -8172,11 +8172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darsa\\Desktop\\Web dev data\\soft\\soft.csproj",
+      "projectUniqueName": "D:\\kknsdfsd\\Complete-identity-project\\soft.csproj",
       "projectName": "soft",
-      "projectPath": "C:\\Users\\Darsa\\Desktop\\Web dev data\\soft\\soft.csproj",
+      "projectPath": "D:\\kknsdfsd\\Complete-identity-project\\soft.csproj",
       "packagesPath": "C:\\Users\\Darsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darsa\\Desktop\\Web dev data\\soft\\obj\\",
+      "outputPath": "D:\\kknsdfsd\\Complete-identity-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darsa\\AppData\\Roaming\\NuGet\\NuGet.Config",

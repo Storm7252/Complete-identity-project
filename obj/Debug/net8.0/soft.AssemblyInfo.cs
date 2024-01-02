@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51e4fe6c4524dfefba72f0aff15fbc205d60005")]
 [assembly: System.Reflection.AssemblyProductAttribute("soft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

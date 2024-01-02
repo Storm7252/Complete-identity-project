@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = soft
 build_property.RootNamespace = soft
-build_property.ProjectDir = C:\Users\Darsa\Desktop\Web dev data\soft\
+build_property.ProjectDir = D:\kknsdfsd\Complete-identity-project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Darsa\Desktop\Web dev data\soft
+build_property.MSBuildProjectDirectory = D:\kknsdfsd\Complete-identity-project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/AccessDenied.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/AdminDashboard.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/Index.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/Login.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/Privacy.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/Register.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/StudentDashboard.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/StudentDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50RGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Home/TeacherDashboard.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Home/TeacherDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFjaGVyRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Shared/Error.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/_ViewImports.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/_ViewStart.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Darsa/Desktop/Web dev data/soft/Views/Shared/_Layout.cshtml]
+[D:/kknsdfsd/Complete-identity-project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t393j09tg1

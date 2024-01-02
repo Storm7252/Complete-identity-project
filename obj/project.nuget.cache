@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qauq4WrGmOAXC0bVSFXO60b2dyElSb0Bq9fzOGcEcev40IQgNF1zstNWwdxv3JnlUvKgdcoby0SwyoxVK4Heig==",
+  "dgSpecHash": "U0NvQedb/WK0iTqc8xWqzZpybv+drln8FFk+Ox86k1WM7ux6kop3Ze25S7ZIK/axqUVPiFWW8dGIEbQd/EO9qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darsa\\Desktop\\Web dev data\\soft\\soft.csproj",
+  "projectFilePath": "D:\\kknsdfsd\\Complete-identity-project\\soft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darsa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Darsa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
